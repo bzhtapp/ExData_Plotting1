@@ -1,3 +1,6 @@
+## Brian's additional instruciton
+Run plot1.R, plot2.R, plot3.R, plot4.R, 
+
 ## Introduction
 
 This assignment uses data from
